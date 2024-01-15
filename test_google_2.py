@@ -1,5 +1,4 @@
 import pytest
-import selene
 from selene import browser, be, have
 
 @pytest.fixture(autouse=True)
